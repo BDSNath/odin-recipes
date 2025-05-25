@@ -1,0 +1,91 @@
+*{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: medium;
+}
+
+p{
+    color: black;
+    background-color: aliceblue;
+    display: block;
+    margin:auto;
+    text-align: center;
+    width: 400px;
+    height: auto;
+}
+
+h1{
+    color:whitesmoke;
+    background-color: maroon;
+    text-align: center;
+    box-sizing: border-box;
+    width: 300px;
+    height: 60px;
+    margin: auto;
+    margin-bottom: 20px;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+h2{
+    color: whitesmoke;
+    background-color: maroon;
+    text-align: center;
+    box-sizing: border-box;
+    width: 300px;
+    height: 30px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: large;
+    font-weight: 700;
+}
+
+img{
+    width; auto;
+    height: 400px;
+    margin: auto;
+    display: block;
+}
+
+.ingredients-list{
+    background-color: rgb(241, 138, 138);
+    box-sizing: border-box; 
+    height: auto;
+    text-align: center;
+    width: 500px; 
+    display: block;
+    margin:auto;
+    padding-right: 10px;
+}
+
+.directions{
+    background-color: rgb(241, 138, 138);
+    box-sizing: border-box; 
+    height: auto;
+    text-align: center;
+    width: 500px; 
+    display: block;
+    margin:auto;
+    padding-right: 10px;
+}
+
+.home-button{
+    text-align: center;
+    font-size: medium;
+    box-sizing: border-box;
+    display: block;
+    margin: auto;
+    height: auto;
+    width: 60px;
+    margin-top: 20px;
+}
+
+.recipes-list{
+    background-color: rgb(241, 138, 138);
+    box-sizing: border-box; 
+    height: auto;
+    text-align: center;
+    width: 250px; 
+    display: block;
+    margin:auto;
+    padding-right: 10px;
+}
